@@ -11,3 +11,5 @@ main.lg
 main.tmp
 main.xref
 texput.log
+main.bak*
+indent.log

@@ -13,6 +13,7 @@ Check the website at [https://wadhah101.github.io/mycv/](https://wadhah101.githu
 1. Clone the repository
 2. Run `render.sh` to render the PDF and the HTML
 3. Run `render-watch.sh` to watch for changes and render the PDF automatically
+4. Run `format.sh` to format the LaTeX code
 
 This rpeository uses github actions to render the pdf and deploy the website.
 
